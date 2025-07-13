@@ -22,7 +22,7 @@ Este projeto é um conversor de moedas desenvolvido em Java, como parte do desaf
 1. Clone este repositório em sua máquina local.
 2. Certifique-se de ter o Java instalado e configurado em seu ambiente.
 3. Obtenha sua chave de API da Extended Rate [aqui](https://www.exchangerate-api.com/).
-4. Substitua `your API key` no código pelo sua chave de API.
+4. Substitua a chave da API no código pelo sua chave de API.
 5. Execute o programa e siga as instruções no console para realizar as conversões.
 
 # ✔️ Tecnologias utilizadas:
